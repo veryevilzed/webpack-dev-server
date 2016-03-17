@@ -21,3 +21,11 @@ The client scripts are built with `npm run-script prepublish`.
 Copyright 2012-2014 Tobias Koppers
 
 [MIT](http://www.opensource.org/licenses/mit-license.php)
+
+
+## ERRORS
+
+```
+cd ./node_modules/webpack-dev-server
+npm run-script prepublish
+```
